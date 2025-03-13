@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12053212392",
+    "project_id": "pichanat-8cb60",
+    "storage_bucket": "pichanat-8cb60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12053212392:android:257f86da7bcbfe2f992d5d",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHe5g4eO94JAMJMgaaFkTSxv3My7TowBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
